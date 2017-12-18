@@ -30,7 +30,7 @@ languageName = "English"
 [[Languages.en.menu.shortcuts]] 
 name = "<i class='fa fa-github'></i> Github repo"
 identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
+url = "https://github.com/softwareking"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
@@ -39,9 +39,9 @@ url = "showcase"
 weight = 11
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fa fa-bookmark'></i> Hugo Documentation"
+name = "<i class='fa fa-bookmark'></i>许进沉思录"
 identifier = "hugodoc"
-url = "https://gohugo.io/"
+url = "http://xujin.org/"
 weight = 20
 
 [[Languages.en.menu.shortcuts]]
